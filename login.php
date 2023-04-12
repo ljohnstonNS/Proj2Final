@@ -50,9 +50,9 @@
   <input name="Submit" type="submit" value="Login">
 </form>
 <div>
-  <p>Login info: <br>
-    user:demo <br>
-    password:123</p>
+  <p>
+    Username:demo <br>
+    Password:123</p>
 </div>
 </div>
 </main>
